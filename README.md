@@ -1,1 +1,2 @@
-# Blog der KulturOffensive
+# KulturOffensive.github.io
+Blog der KulturOffensive
