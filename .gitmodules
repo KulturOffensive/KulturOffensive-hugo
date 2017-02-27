@@ -7,6 +7,9 @@
 [submodule "themes/creative"]
 	path = themes/creative
 	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
+[submodule "themes/strata"]
+	path = themes/strata
+	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
 [submodule "public"]
 	path = public
 	url = https://github.com/KulturOffensive/KulturOffensive.github.io.git
