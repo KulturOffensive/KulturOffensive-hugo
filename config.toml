@@ -1,6 +1,6 @@
 languageCode = "de-DE"
 title = "Kultur Offensive"
-baseurl = "http://kulturoffensive.github.io/"
+baseurl = "https://kulturoffensive.github.io/"
 theme = "vienna"
 copyright = "&copy; Copyright KulturOffensive 2017"
 
