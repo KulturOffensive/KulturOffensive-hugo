@@ -9,7 +9,7 @@ copyright = "&copy; Copyright KulturOffensive 2017"
     # footer.
     # Google Analytics API key.
     # ga_api_key = "Your Google Analytics tracking id"
-    contact = "mailto:info@kultur-offensive.org"
+    contact = "mailto:mail@kultur-offensive.org"
 
     # Short subtitle/tagline. This is displayed in the header.
     subtitle = "Kreative Projekte und soziales Engagement"
