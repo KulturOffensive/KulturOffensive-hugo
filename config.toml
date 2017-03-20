@@ -1,8 +1,8 @@
 languageCode = "de-DE"
-title = "Kultur Offensive"
+title = "KulturOFFENsive"
 baseurl = "https://kulturoffensive.github.io/"
 theme = "vienna"
-copyright = "&copy; Copyright KulturOffensive 2017"
+copyright = "&copy; Copyright KulturOFFENsive 2017"
 
 [params]
     # Social accounts. Link to these accounts are displayed in the header and
