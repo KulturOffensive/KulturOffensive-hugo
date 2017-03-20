@@ -1,7 +1,7 @@
 +++
 date = "2017-02-15"
 title = "Die KulturOffensive"
-draft = false
+draft = true
 
 +++
 An dieser Stelle möchten wir uns euch kurz vorstellen.
