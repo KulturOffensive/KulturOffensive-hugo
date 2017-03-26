@@ -6,6 +6,8 @@ draft = false
 
 Unser Projekt **Refugees in Concert+** hat am 6. Juni 2016 um 19 Uhr im Innenhof des Dots in Göttingen in Form eines Konzertes des Künstlers Aeham Ahmad und der Künstlergruppe rund um Abbas Ballin stattgefunden. Beides sind Geflüchtete aus Syrien.
 
+![2016-06-06_IMG_1167](/images/2016-06-06_IMG_1167.jpg)
+
 Das Projekt entstand im Rahmen eines ZESS-Kurses der Georg-August-Universität Göttingen,
 *Projektteams leiten und entwickeln*,
 in welchem es unsere Aufgabe war,
@@ -21,6 +23,7 @@ Die auftretenden Künstler schafften es, das Publikum mit auf eine Reise zu nehm
 Es wurde gelacht, getanzt, gesungen, aber auch innegehalten, nachgedacht und getrauert.
 Es war ein überwältigender und unvergesslicher Moment.
 
+
 Dieses eine Projekt schaffte es aus einer Gruppe von Studierenden,
 die einen Kurs,
 auch um der Credits Willen,
@@ -33,6 +36,16 @@ abseits der Universität weiter zusammen zu arbeiten,
 um solche und weitere Projekte zu unterstützen,
 zu planen und zu realisieren.
 Hieraus entstand unsere soziale Initiative **KulturOFFENsive Göttingen**.
+
+
+![2016-06-06_IMG_1194](/images/2016-06-06_IMG_1194.jpg)
+![2016-06-06_IMG_1199](/images/2016-06-06_IMG_1199.jpg)
+![2016-06-06_IMG_1205](/images/2016-06-06_IMG_1205.jpg)
+![2016-06-06_IMG_1252](/images/2016-06-06_IMG_1252.jpg)
+![2016-06-06_IMG_1261](/images/2016-06-06_IMG_1261.jpg)
+![2016-06-06_IMG_1268](/images/2016-06-06_IMG_1268.jpg)
+![2016-06-06_IMG_1274](/images/2016-06-06_IMG_1274.jpg)
+![2016-06-06_IMG_1298](/images/2016-06-06_IMG_1298.jpg)
 
 Zu dieser Veranstaltung sind diverse Berichte erschienen.
 
