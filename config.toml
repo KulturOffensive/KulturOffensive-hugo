@@ -1,7 +1,7 @@
 languageCode = "de-DE"
 title = "KulturOFFENsive"
 baseurl = "http://kultur-offensive.org/"
-# baseurl = "https://kulturoffensive.github.io/"
+# baseurl = "https://kulturoffensive.github.io/" 
 theme = "vienna"
 copyright = "&copy; Copyright KulturOFFENsive 2017"
 
