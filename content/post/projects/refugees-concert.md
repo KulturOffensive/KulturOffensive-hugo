@@ -50,6 +50,7 @@ Hieraus entstand unsere soziale Initiative **KulturOFFENsive Göttingen**.
 
 Zu dieser Veranstaltung sind diverse Berichte erschienen.
 
+- Zeitungsartikel [Göttinger Tageblatt](http://www.goettinger-tageblatt.de/Campus/Goettingen/Konzert-von-Pianist-in-den-Truemmern)
 - Ein schöner [Blogeintrag von Mandy Lüssenhop](https://mandyluessenhop.wordpress.com/2016/06/08/was-uns-alle-eint/)
 - Ein gelugener [Radiobeitrag des Stadtradio Göttingens](http://www.stadtradio-goettingen.de/beitraege/kultur/archiv/2016/refugees_in_concert_goettinger_studenten_bieten_gefluechteten_kuenstlern_eine_buehne/index_ger.html)
 
