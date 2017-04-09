@@ -46,6 +46,7 @@ Hieraus entstand unsere soziale Initiative **KulturOFFENsive Göttingen**.
 ![2016-06-06_IMG_1268](/images/2016-06-06_IMG_1268.jpg)
 ![2016-06-06_IMG_1274](/images/2016-06-06_IMG_1274.jpg)
 ![2016-06-06_IMG_1298](/images/2016-06-06_IMG_1298.jpg)
+*Fotos & Copyright KulturOFFENsive Göttingen*
 
 Zu dieser Veranstaltung sind diverse Berichte erschienen.
 

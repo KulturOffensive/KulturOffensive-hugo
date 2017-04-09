@@ -34,6 +34,7 @@ Die entstandenen Fotos wurden den Fotografierten anschließend als kleine Erinne
 ![2016-12-08_IMG_9917](/images/2016-12-08_IMG_9917.jpg)
 ![2016-12-08_IMG_9925](/images/2016-12-08_IMG_9925.jpg)
 ![2016-12-08_IMG_9941](/images/2016-12-08_IMG_9941.jpg)
+*Fotograf & Copyright: Phileas Schönberg*
 
 Das Stadtradio Göttingen war vor Ort und hat einen
 [Radiobeitrag](http://www.stadtradio-goettingen.de/beitraege/uni_und_wissenschaft/archiv/2016/adventsgeschichten_ein_nachmittag_der_begegnungen_fuer_goettinger_und_gefluechtete/index_ger.html)
