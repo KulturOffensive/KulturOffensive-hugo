@@ -1,9 +1,9 @@
 languageCode = "de-DE"
 title = "KulturOFFENsive"
 baseurl = "http://kultur-offensive.org/"
-# baseurl = "https://kulturoffensive.github.io/" 
+# baseurl = "https://kulturoffensive.github.io/"
 theme = "vienna"
-copyright = "&copy; Copyright KulturOFFENsive 2017"
+copyright = "&copy; Copyright KulturOFFENsive 2017 - Titelbild: Fotograf & Copyright Jan Vetter"
 
 [params]
     # Social accounts. Link to these accounts are displayed in the header and
