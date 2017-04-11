@@ -1,6 +1,6 @@
 +++
 date = "2016-12-08"
-title = "Advent Stories - Gesichter der Begegnung"
+title = "Advent Stories ― Gesichter der Begegnung"
 draft = false
 
 +++

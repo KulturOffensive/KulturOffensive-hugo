@@ -1,6 +1,6 @@
 +++
 date = "2016-06-06"
-title = "Refugees in Concert+"
+title = "Refugees in Concert+ ― Bühne der Begegnung"
 draft = false
 +++
 
