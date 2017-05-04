@@ -41,8 +41,9 @@ Das Stadtradio Göttingen war vor Ort und hat einen
 zu unserer Veranstaltung veröffentlicht.
 
 Auch das Team von Gö-ON war vor Ort, um Videoaufnahmen zu machen und Interviews zu führen,
-die in einem
-[Videobeitrag](https://youtu.be/6pgJhzBf9TY)
+die in zwei Videobeiträgen ([Teil 1](https://youtu.be/6pgJhzBf9TY) und [Teil 2](https://youtu.be/1wLz2lH4A2g))
 veröffentlicht worden sind.
 
 {{< youtube 6pgJhzBf9TY >}}
+
+{{< youtube 1wLz2lH4A2g >}}
