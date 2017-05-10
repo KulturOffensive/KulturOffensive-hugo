@@ -2,6 +2,7 @@
 date = "2017-04-11"
 title = "Voices of Humanity ― Erhebe deine Stimme"
 draft = false
+aliases = ["/VoH","/voh"]
 +++
 
  {{< youtube t3kNNv5kBDE >}}
