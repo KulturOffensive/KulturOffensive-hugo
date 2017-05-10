@@ -58,5 +58,5 @@ Sowie zwei Youtube Videos:
 
 - [Videobeitrag von univision Göttingen](https://youtu.be/IPJWL1iHv4A)
 {{< youtube IPJWL1iHv4A >}}
-- [Videobeitrag von dem Zuschauer TobiTV](https://youtu.be/rH9qGyeski4)
+- [Videobeitrag des Zuschauers TobiTV](https://youtu.be/rH9qGyeski4)
 {{< youtube rH9qGyeski4 >}}
