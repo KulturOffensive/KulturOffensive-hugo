@@ -6,6 +6,8 @@ theme = "vienna"
 copyright = "&copy; Copyright KulturOFFENsive 2016-2017"
  # - Titelbild: Fotograf & Copyright Jan Vetter
 
+googleAnalytics = "UA-99317552-1"
+
 [params]
     # Social accounts. Link to these accounts are displayed in the header and
     # footer.
