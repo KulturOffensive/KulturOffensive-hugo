@@ -2,6 +2,8 @@
 date = "2016-06-06"
 title = "Refugees in Concert+ ― Bühne der Begegnung"
 draft = false
+aliases = ["/RiC","/ric",
+            "/post/projects/refugees-concert/"]
 +++
 
 Unser Projekt **Refugees in Concert+** hat am 6. Juni 2016 um 19 Uhr im Innenhof des Dots in Göttingen in Form eines Konzertes des Künstlers Aeham Ahmad und der Künstlergruppe rund um Abbas Ballin stattgefunden. Beides sind Geflüchtete aus Syrien.
