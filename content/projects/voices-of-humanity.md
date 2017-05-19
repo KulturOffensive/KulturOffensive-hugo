@@ -9,7 +9,7 @@ aliases = ["/VoH","/voh",
  {{< youtube t3kNNv5kBDE >}}
 
  Im Sommer ist es wieder soweit:
- Die Konzertreihe [*Refugees in Concert+ ― Bühne der Begegnung*](/post/projects/refugees-concert/) geht in eine neue Runde.
+ Die Konzertreihe [*Refugees in Concert+ ― Bühne der Begegnung*](/projects/refugees-concert/) geht in eine neue Runde.
  Außerdem kommt mit *Voices of Humanity ― Erhebe deine Stimme* ein tolles neues Projekt dazu!
  Die Idee ist unter der Leitung von professionellen Musikern,
  gemeinsam als Chor den Song Imagine von John Lennon zu inszenieren.
