@@ -6,7 +6,7 @@ aliases = ["/VoH","/voh",
             "/post/projects/voices-of-humanity/"]
 +++
 
-> *„Stell dir vor, dass alle Menschen ihr Leben in Frieden leben. Du wirst sagen ich bin ein Träumer, aber ich bin nicht der Einzige. Ich hoffe, dass du dich uns eines Tages > anschließt und die Welt wird Eins sein.“*
+> *„Stell dir vor, dass alle Menschen ihr Leben in Frieden leben. Du wirst sagen ich bin ein Träumer, aber ich bin nicht der Einzige. Ich hoffe, dass du dich uns eines Tages anschließt und die Welt wird Eins sein.“*
 
 # Die Veranstaltung
 
