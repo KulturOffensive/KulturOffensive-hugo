@@ -54,4 +54,7 @@ Studenten der Uni Göttingen benutzen die Buslinien mit dem **Semesterticket KOS
 ## Verpflegung
 - kostenloses Wasser für alle Singenden von 16-19 Uhr
 
+## Medien
+- [Artikel im Göttinger Tageblatt](http://www.goettinger-tageblatt.de/Campus/Goettingen/Kulturoffensive-plant-Gruppensingen-in-der-Musa-Goettingen)
+
  {{< youtube t3kNNv5kBDE >}}
