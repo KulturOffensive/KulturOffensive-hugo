@@ -24,6 +24,8 @@ Damit dies gelingt, unterstützt uns, seid dabei und singt mit uns!
 
 Wir freuen uns auf euch!
 
+[Link zur Facebook Veranstaltung](https://www.facebook.com/events/838256069674508)
+
 # Anfahrt
 
 Entweder mit dem Auto oder Fahrrad oder mit [PUK-Minicar](http://www.puk-minicar.de/) Tel.: 0551 – 48 48 48 oder mit den [Göttinger Verkehrsbetrieben](http://www.goevb.de/). Zu Fuß geht es auch, wenn Sie einen Spaziergang an der Leine machen wollen.
