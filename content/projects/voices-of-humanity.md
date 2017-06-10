@@ -58,5 +58,6 @@ Studenten der Uni Göttingen benutzen die Buslinien mit dem **Semesterticket KOS
 
 # Medien
 - [Artikel im Göttinger Tageblatt](http://www.goettinger-tageblatt.de/Campus/Goettingen/Kulturoffensive-plant-Gruppensingen-in-der-Musa-Goettingen)
-
+- [Interview mit dem StadtRadio Göttingen](http://www.stadtradio-goettingen.de/permalink_to?objid=e38707)
+- [Interview mit FFN](/media/2017-06-08-FFN-Interview.mp3)
  {{< youtube t3kNNv5kBDE >}}
