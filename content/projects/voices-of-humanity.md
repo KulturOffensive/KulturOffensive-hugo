@@ -57,7 +57,9 @@ Studenten der Uni Göttingen benutzen die Buslinien mit dem **Semesterticket KOS
 - kostenloses Wasser für alle Singenden von 16-19 Uhr
 
 # Medien
-- [Artikel im Göttinger Tageblatt](http://www.goettinger-tageblatt.de/Campus/Goettingen/Kulturoffensive-plant-Gruppensingen-in-der-Musa-Goettingen)
+- [Göttinger Tageblatt - Ankündigung](http://www.goettinger-tageblatt.de/Campus/Goettingen/Kulturoffensive-plant-Gruppensingen-in-der-Musa-Goettingen)
 - [Interview mit dem StadtRadio Göttingen](http://www.stadtradio-goettingen.de/permalink_to?objid=e38707)
 - [Interview mit FFN](/media/2017-06-08-FFN-Interview.mp3)
+- [Göttinger Tageblatt - Bericht](http://www.goettinger-tageblatt.de/Campus/Goettingen/Kulturoffensive-organisiert-Chorevent-Voices-of-Humanity)
+
  {{< youtube t3kNNv5kBDE >}}
