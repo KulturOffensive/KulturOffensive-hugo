@@ -8,6 +8,8 @@ aliases = ["/VoH","/voh",
 
 > *„Stell dir vor, dass alle Menschen ihr Leben in Frieden leben. Du wirst sagen ich bin ein Träumer, aber ich bin nicht der Einzige. Ich hoffe, dass du dich uns eines Tages anschließt und die Welt wird Eins sein.“*
 
+{{< youtube 9JTcqskvqvY >}}
+
 # Die Veranstaltung
 
 Spaß am gemeinsamen Singen und mit Musik eine Botschaft senden - das ist die Idee von Voices of Humanity. Unter der Leitung von professionellen Musikern möchten wir alle Interessierten einladen, ab 16:00 Uhr zusammen als großer Chor den Song "Imagine" von John Lennon zu singen und ein musikalisches Zeichen für Menschlichkeit und Toleranz zu setzen. Die besondere Atmosphäre dieses Moments wird in einem professionellen Video festgehalten und als Botschaft, Inspiration und Erinnerung in die Welt gesendet.
