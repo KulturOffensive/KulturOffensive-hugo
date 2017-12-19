@@ -65,3 +65,6 @@ Studenten der Uni Göttingen benutzen die Buslinien mit dem **Semesterticket KOS
 - [Göttinger Tageblatt - Bericht](http://www.goettinger-tageblatt.de/Campus/Goettingen/Kulturoffensive-organisiert-Chorevent-Voices-of-Humanity)
 
  {{< youtube t3kNNv5kBDE >}}
+
+Unterstützt durch:
+![Stadt Göttingen](/images/logo-stadt-goettingen.jpg)
